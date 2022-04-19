@@ -1,0 +1,2 @@
+# CardName-sederhana
+masih belajar
